@@ -14,10 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-//    TextView username =(TextView) findViewById(R.id.password);
-//    TextView password =(TextView) findViewById(R.id.password);
-//
-//    MaterialButton loginbtn = (MaterialButton) findViewById(R.id.loginbtn);
 
 
 }

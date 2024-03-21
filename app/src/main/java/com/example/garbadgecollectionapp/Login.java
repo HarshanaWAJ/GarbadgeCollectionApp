@@ -15,7 +15,7 @@ import com.google.android.material.textfield.TextInputEditText;
 public class Login extends AppCompatActivity {
 //    TextInputEditText editTextEmail, editTextPassword;
 //    Button buttonReg;
-
+//changed
     @SuppressLint("WrongViewCast")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
