@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32673963839",
+    "project_id": "garbadgecollectionapp",
+    "storage_bucket": "garbadgecollectionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32673963839:android:09b67c86e29576ff33bd8a",
+        "android_client_info": {
+          "package_name": "com.example.garbadgecollectionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZzgeuy6kUOKVWwb6LL35tOKdJWpWpP9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

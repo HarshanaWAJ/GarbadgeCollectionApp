@@ -13,8 +13,8 @@ import androidx.core.view.WindowInsetsCompat;
 import com.google.android.material.textfield.TextInputEditText;
 
 public class Login extends AppCompatActivity {
-    TextInputEditText editTextEmail, editTextPassword;
-    Button buttonReg;
+//    TextInputEditText editTextEmail, editTextPassword;
+//    Button buttonReg;
 
     @SuppressLint("WrongViewCast")
     @Override
@@ -28,9 +28,9 @@ public class Login extends AppCompatActivity {
             return insets;
         });
 
-        editTextEmail = findViewById(R.id.login_email);
-        editTextPassword = findViewById(R.id.login_password);
-        buttonReg = findViewById(R.id.btn_login);
+//        editTextEmail = findViewById(R.id.login_email);
+//        editTextPassword = findViewById(R.id.login_password);
+//        buttonReg = findViewById(R.id.btn_login);
 
     }
 }
